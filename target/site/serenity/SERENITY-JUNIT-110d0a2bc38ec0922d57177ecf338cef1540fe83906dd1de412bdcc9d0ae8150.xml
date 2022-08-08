@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Automatizacion de Api Rest" skipped="0" tests="2" time="5.14" timestamp="2022-08-07 06:59:15"><testcase name="Eliminar  de usuario exitoso"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+&#13;
+com.lulobank.stepdefinitions.DeleteEmployeeStepDefinitions.validaQueElStatusCodeSeaExitoso(DeleteEmployeeStepDefinitions.java:38)&#13;
+✽.valida que el status code sea exitoso(file:///C:/Users/Maria%20Fernanda/Downloads/PruebaTecnicaLulo/src/test/resources/com/lulobank/features/delete_employee.feature:6)&#13;
+</system-err></testcase><testcase name="Eliminar  de usuario fallido"/></testsuite>
